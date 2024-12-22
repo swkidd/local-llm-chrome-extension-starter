@@ -1,5 +1,7 @@
 {
-  "name": "react-chrome-ext",
+  "name": "local-llm-chrome-extension-starter",
+  "author": "swkidd",
+  "license": "MIT",
   "type": "module",
   "private": true,
   "version": "0.0.0",

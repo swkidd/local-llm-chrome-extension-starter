@@ -6,8 +6,7 @@ let engine = null;
 let isModelReady = false;
 
 const EMBEDDING_MODEL = "snowflake-arctic-embed-m-q0f32-MLC-b4";
-// const CHAT_MODEL = "SmolLM2-360M-Instruct-q4f16_1-MLC";
-const CHAT_MODEL = "Phi-3.5-vision-instruct-q4f16_1-MLC";
+const CHAT_MODEL = "SmolLM2-360M-Instruct-q4f16_1-MLC";
 const CHUNK_SIZE = 500;  // Size of each text chunk
 const MAX_STORED_PAGES = 5;  // Maximum number of pages to keep in memory
 
